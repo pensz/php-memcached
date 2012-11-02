@@ -1,0 +1,8 @@
+*.swp
+.libs/*
+modules/*
+*.lo
+*.la
+autom4te.cache/*
+build/*
+Makefile*
